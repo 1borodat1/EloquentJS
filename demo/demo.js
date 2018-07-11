@@ -1,24 +1,14 @@
-function chessBoard(n) {
-	var hashSymbol = '#', spaceSymbol = ' ';
-
+(function chessBoard() {
+	var hashSymbol = '#', spaceSymbol = ' ', n=9;
 	for (var i = 1; i <= n; ++i) {
-		var output = '';
-
+		var output = '', isHashStart = i % 2;
 		while (output.length != n) {
-
-			if (i % 2 != 0) {
-				if ((output.length + 1) % 2 != 0)
-					output +=	hashSymbol;
-				else
-					output +=	spaceSymbol;
-			} else {
-			 	if ((output.length + 1) % 2 != 0)
-					output +=	spaceSymbol;
-				else
-					output +=	hashSymbol;
-			 }
+			if(isHashStart){
+				output += output.length % 2 ? spaceSymbol : hashSymbol;
+			} else{
+				output += output.length % 2 ? hashSymbol : spaceSymbol;
+			}
 		}
-
 		console.log(output);
 	}
-}
+})();
