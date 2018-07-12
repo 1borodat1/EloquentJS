@@ -1,5 +1,5 @@
 function chessBoard() {
-
+    consoleClear();
 	let hashSymbol = '#', spaceSymbol = ' ', n=9;
 	for (let i = 1; i <= n; ++i) {
 		let output = '', isHashStart = i % 2;
