@@ -1,4 +1,5 @@
 function chessBoard() {
+    consoleClear();
 	let hashSymbol = '#', spaceSymbol = ' ', n=9;
 	for (let i = 1; i <= n; ++i) {
 		let output = '', isHashStart = i % 2;
@@ -14,7 +15,7 @@ function chessBoard() {
 }
 
 function repeatSymbol() {
-    console.clear();
+    consoleClear();
     let repeat = '#';
     for (let i = 1; i <= 11; ++i) {
         console.log(repeat.repeat(i));
@@ -22,7 +23,7 @@ function repeatSymbol() {
 }
 
 function fizzBuzz() {
-    console.clear();
+    consoleClear();
     for (let i = 1; i <= 100; ++i) {
         let str = "";
         if (i % 3) {
@@ -34,4 +35,8 @@ function fizzBuzz() {
         }
         console.log(str);
     }
+}
+
+function consoleClear() {
+    console.clear();
 }
