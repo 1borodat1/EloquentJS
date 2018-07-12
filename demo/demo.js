@@ -12,3 +12,26 @@ function chessBoard() {
 		console.log(output);
 	}
 }
+
+function repeatSymbol() {
+    console.clear();
+    let repeat = '#';
+    for (let i = 1; i <= 11; ++i) {
+        console.log(repeat.repeat(i));
+    }
+}
+
+function fizzBuzz() {
+    console.clear();
+    for (let i = 1; i <= 100; ++i) {
+        let str = "";
+        if (i % 3) {
+            str += "Fizz";
+        } else if (i % 5) {
+            str += "Buzz";
+        } else {
+            str += i;
+        }
+        console.log(str);
+    }
+}
