@@ -1,0 +1,12 @@
+/*
+---
+name: Chapter 22
+description: jsFiddle/Github integration
+authors:
+  - Piotr Zalewa
+resources:
+  - /css/normalize.css
+normalize_css: yes
+lang_css: SCSS
+...
+*/
