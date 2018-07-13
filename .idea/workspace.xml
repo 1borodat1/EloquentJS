@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f079fe65-2eda-4890-ba76-813799deacab" name="Default" comment="refactoring">
+    <list default="true" id="f079fe65-2eda-4890-ba76-813799deacab" name="Default" comment="22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -34,8 +34,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chapter22.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter22/Chapter22.html">
+      <file leaf-file-name="Chapter22.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter22/Chapter22.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
@@ -43,20 +43,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chapter22.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter22/Chapter22.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chapter22.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter22/Chapter22.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter22/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="101" selection-start-column="101" selection-end-column="101" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -111,6 +105,7 @@
         <option value="$PROJECT_DIR$/Chapter22/Chapter22.html" />
         <option value="$PROJECT_DIR$/Chapter22/Chapter22.css" />
         <option value="$PROJECT_DIR$/Chapter22/Chapter22.js" />
+        <option value="$PROJECT_DIR$/Chapter22/README.md" />
       </list>
     </option>
   </component>
@@ -194,7 +189,7 @@
       <workItem from="1531338247438" duration="580000" />
       <workItem from="1531338893868" duration="1233000" />
       <workItem from="1531368591903" duration="3963000" />
-      <workItem from="1531505585848" duration="741000" />
+      <workItem from="1531505585848" duration="1209000" />
     </task>
     <task id="LOCAL-00001" summary="add link to jsfiddle">
       <created>1531339695222</created>
@@ -252,11 +247,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531372456322</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2">
+      <created>1531506718253</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1531506718253</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6517000" />
+    <option name="totallyTimeSpent" value="6985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -295,7 +297,9 @@
     <MESSAGE value="chapter 2 to demo" />
     <MESSAGE value="console clear" />
     <MESSAGE value="refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
+    <MESSAGE value="2" />
+    <MESSAGE value="22" />
+    <option name="LAST_COMMIT_MESSAGE" value="22" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo/demo.js">
@@ -424,14 +428,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/demo.details">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter22/Chapter22.html">
+    <entry file="file://$PROJECT_DIR$/Chapter22/Chapter22.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
@@ -445,10 +442,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter22/Chapter22.js">
+    <entry file="file://$PROJECT_DIR$/Chapter22/Chapter22.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.details">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter22/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="101" selection-start-column="101" selection-end-column="101" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
