@@ -1,0 +1,13 @@
+/*
+---
+name:
+description: jsFiddle/Github integration
+authors:
+  - Piotr Zalewa
+resources:
+
+  - /css/normalize.css
+normalize_css: yes
+lang_css: CSS
+...
+*/
