@@ -1,0 +1,16 @@
+/*
+---
+name: Higher-order Functions
+description: jsFiddle/Github integration
+authors:
+  - Denis Pugach
+resources:
+  - https://github.com/1borodat1/EloquentJS/blob/master/functions/Every%20and%20some.js
+  - https://github.com/1borodat1/EloquentJS/blob/master/functions/Flattening.js
+  - https://github.com/1borodat1/EloquentJS/blob/master/functions/Historical%20life%20expectancy.js
+  - https://github.com/1borodat1/EloquentJS/blob/master/functions/\Mother-child%20age%20difference.js
+  - /css/normalize.css
+normalize_css: yes
+lang_css: CSS
+...
+*/
