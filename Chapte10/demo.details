@@ -5,7 +5,7 @@ description: jsFiddle demo hosted on Github using HTML Request to get Ajax data
 authors:
   - Piotr Zalewa
 resources:
-  - https://github.com/1borodat1/EloquentJS/blob/master/Chapte10/Month%20names.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapte10/Month%20names.js
   - /js/empty.js
   - /css/normalize.css
 normalize_css: yes
