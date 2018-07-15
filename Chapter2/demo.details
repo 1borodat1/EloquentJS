@@ -1,13 +1,13 @@
 /*
 ---
-name: Higher-order Functions
+name: Program Structure
 description: jsFiddle/Github integration
 authors:
   - Denis Pugach
 resources:
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/ChessBoard.js
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/FizzBuzz.js
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Looping%20a%20triangle.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter2/ChessBoard.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter2/FizzBuzz.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter2/Looping%20a%20triangle.js
   - /css/normalize.css
 normalize_css: yes
 lang_css: CSS

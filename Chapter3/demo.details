@@ -1,13 +1,13 @@
 /*
 ---
-name: Higher-order Functions
+name: Functions
 description: jsFiddle/Github integration
 authors:
   - Denis Pugach
 resources:
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Bean%20counting.js
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Minimum.js
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Recursion.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter3/Bean%20counting.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter3/Minimum.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter3/Recursion.js
   - /css/normalize.css
 normalize_css: yes
 lang_css: CSS

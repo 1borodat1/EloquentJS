@@ -1,13 +1,13 @@
 /*
 ---
-name: Higher-order Functions
+name: Regular Expressions
 description: jsFiddle/Github integration
 authors:
   - Denis Pugach
 resources:
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Numbers%20again.js
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Quoting%20style.js
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Regexp%20golf.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter9/Numbers%20again.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter9/Quoting%20style.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter9/Regexp%20golf.js
   - /css/normalize.css
 normalize_css: yes
 lang_css: CSS

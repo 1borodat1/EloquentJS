@@ -1,13 +1,13 @@
 /*
 ---
-name: Higher-order Functions
+name: Asynchronous Programming
 description: jsFiddle/Github integration
 authors:
   - Denis Pugach
 resources:
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Comments.js
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Arrays.js
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Fixing%20scope.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter11/Comments.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter11/Arrays.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter11/Fixing%20scope.js
   - /css/normalize.css
 normalize_css: yes
 lang_css: CSS

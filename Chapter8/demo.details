@@ -1,12 +1,12 @@
 /*
 ---
-name: Higher-order Functions
+name: Bugs and Errors
 description: jsFiddle/Github integration
 authors:
   - Denis Pugach
 resources:
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/The%20locked%20box.js
-  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Retry.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter8/The%20locked%20box.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter8/Retry.js
   - /css/normalize.css
 normalize_css: yes
 lang_css: CSS
