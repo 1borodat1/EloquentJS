@@ -1,0 +1,16 @@
+/*
+---
+name: Higher-order Functions
+description: jsFiddle/Github integration
+authors:
+  - Denis Pugach
+resources:
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/A%20list.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Deep%20comparison.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Reversing%20an%20array.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/The%20sum%20of%20a%20range.js
+  - /css/normalize.css
+normalize_css: yes
+lang_css: CSS
+...
+*/

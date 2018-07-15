@@ -1,0 +1,14 @@
+/*
+---
+name: Higher-order Functions
+description: jsFiddle/Github integration
+authors:
+  - Denis Pugach
+resources:
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Mouse%20trail.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Censored%20keyboard.js
+  - /css/normalize.css
+normalize_css: yes
+lang_css: CSS
+...
+*/

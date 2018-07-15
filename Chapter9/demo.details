@@ -1,0 +1,15 @@
+/*
+---
+name: Higher-order Functions
+description: jsFiddle/Github integration
+authors:
+  - Denis Pugach
+resources:
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Numbers%20again.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Quoting%20style.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Regexp%20golf.js
+  - /css/normalize.css
+normalize_css: yes
+lang_css: CSS
+...
+*/

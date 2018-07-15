@@ -1,0 +1,15 @@
+/*
+---
+name: Higher-order Functions
+description: jsFiddle/Github integration
+authors:
+  - Denis Pugach
+resources:
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Comments.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Arrays.js
+  - https://raw.githubusercontent.com/1borodat1/EloquentJS/master/Chapter5/Fixing%20scope.js
+  - /css/normalize.css
+normalize_css: yes
+lang_css: CSS
+...
+*/
