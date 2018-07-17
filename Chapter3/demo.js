@@ -18,14 +18,14 @@ function getRandomString(lenght) {
 function minimum() {
 	consoleClear();
 	let lenght = getRandom(), min = 100, array = [];
-	for (let i = 0; i <= lenght; ++i) {
+	for (let i = 0; i < lenght; ++i) {
 		let number  = getRandom();
 		if(min > number){
 			min = number;
 		}
 		array[i] = number;
 	}
-	console.log("min number ", min," from [", array.toString(),"], array lenght is ", lenght);
+	console.log("min number", min,"from [", array.toString(),"], array lenght is", lenght);
 }
 
 function countChar() {
@@ -36,7 +36,7 @@ function countChar() {
 		if (text[i] == char)
 			++countChar;
 	}
-	console.log("char count \"", char,"\"  of \"", text,"\" is ", countChar);
+	console.log("char count\"", char,"\" of \"", text,"\" is", countChar);
 }
 
 function isEven(n) {
@@ -49,7 +49,7 @@ function isEven(n) {
 
 function canculateEven(){
 	let number = getRandom();
-	console.log("number ", number," is ", isEven(number) ? "even" : "add");
+	console.log("number", number,"is", isEven(number) ? "even" : "odd");
 }
 function consoleClear() {
     console.clear();
