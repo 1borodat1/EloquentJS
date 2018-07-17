@@ -5,17 +5,17 @@ function getRandom(max) {
 	return Math.floor(Math.random() * max);
 }
 
-function getRandomString() {
+function getRandomString(lenght) {
 	let text = "";
 	let possible = "abcdefghijklmnopqrstuvwxyz";
 	let possibleLength = possible.length;
-	for (let i = 0; i < 26; i++) {
+	for (let i = 0; i < lenght; i++) {
 		text += possible.charAt(getRandom(possibleLength));
 	}
 	return text;
 }
 
-function min() {
+function minimum() {
 	consoleClear();
 	let lenght = getRandom(), min = 0, array = [];
 	for (let i = 0; i <= lenght; ++i) {
@@ -29,8 +29,9 @@ function min() {
 }
 
 function countChar() {
-	let text = getRandomString(), countChar= 0;
-	let char = 97 + getRandom(26);//a
+	consoleClear();
+	let text = getRandomString(26), countChar= 0;
+	let char = getRandomString(1);//a
 	for (let i = 0; i < text.length; ++i) {
 		if (text[i] == char)
 			++countChar;
@@ -39,6 +40,7 @@ function countChar() {
 }
 
 function isEven(n) {
+	consoleClear();
 	if (n == 0) return true;
 	else if (Math.abs(n) == 1) return false;
 	else return isEven(Math.abs(n - 2));
